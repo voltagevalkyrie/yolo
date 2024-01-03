@@ -4,7 +4,9 @@ A website where you can share  your feelings....
 
 # yolo - Share Your Emotions Website
 
-Welcome to FeelShare, a simple yet powerful website designed for sharing your deepest feelings and connecting with others on a more emotional level. This project is built using HTML and CSS, focusing on providing a user-friendly platform for expressing and understanding emotions.
+Welcome to yolo, a simple yet powerful website designed for sharing your deepest feelings and connecting with others on a more emotional level. This project is built using HTML and CSS, focusing on providing a user-friendly platform for expressing and understanding emotions.
+
+share your feelings by clicking on the logo
 
 ## Table of Contents
 
